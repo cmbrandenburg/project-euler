@@ -1,0 +1,6 @@
+[package]
+name = "pe-1"
+version = "0.0.0"
+authors = ["Craig M. Brandenburg <c.m.brandenburg@gmail.com>"]
+
+[dependencies]
